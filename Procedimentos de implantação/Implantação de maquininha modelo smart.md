@@ -18,23 +18,23 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 • Imagem 1
 
-[![Imagem 1](https://i.imgur.com/m3Va2Av.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
+[![](https://i.imgur.com/m3Va2Av.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
 
 • Imagem 2
 
-[!](https://i.imgur.com/BWsXO82.png)
+[![](https://i.imgur.com/BWsXO82.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
 
 • Imagem 3
 
-[!](https://i.imgur.com/zpB0z0O.png)
+[![](https://i.imgur.com/zpB0z0O.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
 
 • Imagem 4
 
-[!](https://i.imgur.com/DZ7mzPx.png)
+[![](https://i.imgur.com/DZ7mzPx.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
 
 • Imagem 5
 
-[!](https://i.imgur.com/QDb5psG.png)
+[![](https://i.imgur.com/QDb5psG.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
 
 6° Descrição: Smart POS 1 (código de identificação da etiqueta atras da maquininha)
 
