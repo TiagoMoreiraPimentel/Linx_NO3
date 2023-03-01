@@ -2,6 +2,7 @@
 
 ## De preferência as telas a seguir devem serem abertas pelo computador do cliente.
 Retaguarda: tela aberta em nuvem
+
 Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 # Configurações iniciais: 
