@@ -16,23 +16,23 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 5° Acessar menu / estabelecimento / Periféricos / incluir
 
-     •Imagem 1
+     • Imagem 1
 
     [!](https://i.imgur.com/m3Va2Av.png)
 
-     •Imagem 2
+     • Imagem 2
 
      [!](https://i.imgur.com/BWsXO82.png)
 
-     •Imagem 3
+     • Imagem 3
 
      [!](https://i.imgur.com/zpB0z0O.png)
 
-     •Imagem 4
+     • Imagem 4
 
      [!](https://i.imgur.com/DZ7mzPx.png)
 
-     •Imagem 5
+     • Imagem 5
 
      [!](https://i.imgur.com/QDb5psG.png)
 
@@ -44,11 +44,11 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 9° Na tela do cliente / Verificar nome da maquina 
 
-    •Imagem 1
+    • Imagem 1
  
-    •Precisa ser o mesmo nome do usuário de computador
-    •Se caso precisar trocar o nome da máquina por divergência entrar na pasta C:// LinxPostos / linxpostos.key / deletar arquivo key
-    •E trocar o nome no painel da retaguarda se necessário
+    • Precisa ser o mesmo nome do usuário de computador
+    • Se caso precisar trocar o nome da máquina por divergência entrar na pasta C:// LinxPostos / linxpostos.key / deletar arquivo key
+    • E trocar o nome no painel da retaguarda se necessário
 
 10° Na máquina do cliente add informações de CNPJ e etc.
 
@@ -56,7 +56,7 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 12° Dentro do barietail abrir / open / log / selecionar os arquivos .log
 
-    •Para dar certo as configurações na retaguarda não podem está em funcionamento o app do link PDV
+    • Para dar certo as configurações na retaguarda não podem está em funcionamento o app do link PDV
 	
 13° Realizar sincronização no app linx PDV / enviados e recebidos
 
@@ -68,7 +68,7 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 17° Impressora / documentos fiscais
 
-    •Imagem 1
+    • Imagem 1
  
 18° Anotar IPv4 da máquina do cliente e porta
 
@@ -78,34 +78,34 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 21° Maquinas / Detalhes 
 
-    •Imagem 1
+    • Imagem 1
  
 22° Maquina / Configuração PDV
 
-    •Imagem 1
+    • Imagem 1
  
 
 23° Maquina / Smart POS
 
-    •Imagem 1
+    • Imagem 1
  
 24° Balança / configuração de balança
 
-    •Imagem 1
+    • Imagem 1
  
 25° Menu / cadastro / sistema / configuração de sistema / configuração dos parâmetros iniciais
 
-    •Na descrição coloca IFOO e muda de zero para “1”
-    •Imagem 1
+    • Na descrição coloca IFOO e muda de zero para “1”
+    • Imagem 1
  
 
 
 26° Cadastro / estabelecimento / estabelecimento
 
-    •Clica no nome da empresa duas vezes
+    • Clica no nome da empresa duas vezes
 
 27° Empresa / configuração delivery
 
-    •F/P padrão muda para IFOOD
-    •ID da loja no portal de parceiros do IFOOD
-    •Código de autorização precisa gerar
+    • F/P padrão muda para IFOOD
+    • ID da loja no portal de parceiros do IFOOD
+    • Código de autorização precisa gerar
