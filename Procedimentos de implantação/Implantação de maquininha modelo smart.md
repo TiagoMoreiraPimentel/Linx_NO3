@@ -44,8 +44,11 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 9° Na tela do cliente / Verificar nome da maquina 
 
-    • Imagem 1
- 
+• Imagem 1
+
+[![](https://i.imgur.com/MlMFIGc.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
+
+
     • Precisa ser o mesmo nome do usuário de computador
     • Se caso precisar trocar o nome da máquina por divergência entrar na pasta C:// LinxPostos / linxpostos.key / deletar arquivo key
     • E trocar o nome no painel da retaguarda se necessário
@@ -68,8 +71,10 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 17° Impressora / documentos fiscais
 
-    • Imagem 1
- 
+• Imagem 1
+
+[![](https://i.imgur.com/nUkDzH2.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
+
 18° Anotar IPv4 da máquina do cliente e porta
 
 19° Já na maquininha o cliente deve colocar o CNPJ / local / e a rede do wifi na mesma do PC
@@ -78,27 +83,35 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 21° Maquinas / Detalhes 
 
-    • Imagem 1
+• Imagem 1
+
+[![](https://i.imgur.com/LfSmmpz.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
  
 22° Maquina / Configuração PDV
 
-    • Imagem 1
- 
+• Imagem 1
+
+[![](https://i.imgur.com/X4CDPyf.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md) 
 
 23° Maquina / Smart POS
 
-    • Imagem 1
+• Imagem 1
+
+[![](https://i.imgur.com/T46lYhk.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
  
 24° Balança / configuração de balança
 
-    • Imagem 1
- 
+• Imagem 1
+
+[![](https://i.imgur.com/L4xsSJJ.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
+
 25° Menu / cadastro / sistema / configuração de sistema / configuração dos parâmetros iniciais
 
     • Na descrição coloca IFOO e muda de zero para “1”
-    • Imagem 1
+    
+• Imagem 1
  
-
+[![](https://i.imgur.com/7IGKIfp.jpg)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md)
 
 26° Cadastro / estabelecimento / estabelecimento
 
