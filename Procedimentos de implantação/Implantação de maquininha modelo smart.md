@@ -18,7 +18,7 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 • Imagem 1
 
-[![](https://i.imgur.com/m3Va2Av.png)]()
+[![Imagem 1](https://i.imgur.com/m3Va2Av.png)](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Procedimentos%20de%20implanta%C3%A7%C3%A3o/Implanta%C3%A7%C3%A3o%20de%20maquininha%20modelo%20smart.md))
 
 • Imagem 2
 
