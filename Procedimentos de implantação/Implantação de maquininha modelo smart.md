@@ -18,7 +18,7 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 • Imagem 1
 
-[!(https://i.imgur.com/m3Va2Av.png)]
+[![](https://i.imgur.com/m3Va2Av.png)]()
 
 • Imagem 2
 
