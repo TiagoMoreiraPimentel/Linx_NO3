@@ -6,10 +6,15 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
 # Configurações iniciais: 
 1° Verificar modelo da maquininha
+
 2° Acessar menu da maquininha / Entrar na loja / Baixar app Linx Smart POS
+
 3° Copiar Smart código / Colocar no bloco de notas o código e número de serie
+
 4° Código do anydesk do cliente / Número de série, serial da máquina e Código de ativação
+
 5° Acessar menu / estabelecimento / Periféricos / incluir
+
     •	Imagem 1
     https://imgur.com/m3Va2Av.png
     •	Imagem 2
