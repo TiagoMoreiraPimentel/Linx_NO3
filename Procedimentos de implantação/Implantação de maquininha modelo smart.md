@@ -17,23 +17,23 @@ Linx PDV: tela de gerenciamento da loja, sincronização – Baixar APP
 
     Imagem 1
 
-    [!](https://imgur.com/m3Va2Av.png)
-    
+    [!](https://i.imgur.com/m3Va2Av.png)
+
     Imagem 2
 
-     [!](https://imgur.com/BWsXO82.png)
+     [!](https://i.imgur.com/BWsXO82.png)
 
     Imagem 3
 
-     [!](https://imgur.com/zpB0z0O.png)
+     [!](https://i.imgur.com/zpB0z0O.png)
 
     Imagem 4
 
-     [!](https://imgur.com/DZ7mzPx.png)
+     [!](https://i.imgur.com/DZ7mzPx.png)
 
     Imagem 5
 
-     [!](https://imgur.com/QDb5psG.png)
+     [!](https://i.imgur.com/QDb5psG.png)
 
 6° Descrição: Smart POS 1 (código de identificação da etiqueta atras da maquininha)
 
