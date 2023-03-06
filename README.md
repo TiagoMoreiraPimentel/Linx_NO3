@@ -4,7 +4,7 @@
 
 ## O que é?
 
-O AutoSystem ****é um sistema completo para posto bandeirado ou individual
+O AutoSystem é um sistema completo para posto bandeirado ou individual
 . O melhor de tudo? O software está preparado para gerenciar de forma unificada em postos de várias bandeiras, atendendo perfeitamente cada setor, desde o escritório até o relacionamento com o cliente.
 
 # Postofácil:
