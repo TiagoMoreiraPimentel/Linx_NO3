@@ -1,21 +1,20 @@
 # Você conhece a linx?
-A Linx é especialista em software de gestão (ERP e POS) para as mais diversas verticais do setor varejista no Brasil. Líder brasileira*, a Companhia atingiu a posição oferecendo tecnologia escalável e profundo conhecimento da cadeia de valor em cada segmento no qual está presente. A Companhia oferece soluções específicas para os segmentos de postos e lojas de conveniência, concessionárias, food, moda e acessórios, óticas, farmácias, super e hipermercado, magazines, eletro & eletrônicos, casa & decoração, home centers, telefonia, perfumaria e cosméticos, livrarias e presentes, varejo de serviços, estética e saúde, ensino profissionalizante e idiomas, salões de beleza e spas, lavanderias, entre outros.
+  A Linx é especialista em software de gestão (ERP e POS) para as mais diversas verticais do setor varejista no Brasil. Líder brasileira*, a Companhia atingiu a posição oferecendo tecnologia escalável e profundo conhecimento da cadeia de valor em cada segmento no qual está presente. A Companhia oferece soluções específicas para os segmentos de postos e lojas de conveniência, concessionárias, food, moda e acessórios, óticas, farmácias, super e hipermercado, magazines, eletro & eletrônicos, casa & decoração, home centers, telefonia, perfumaria e cosméticos, livrarias e presentes, varejo de serviços, estética e saúde, ensino profissionalizante e idiomas, salões de beleza e spas, lavanderias, entre outros.
 
-# MIssão:
-Tornar o varejo mais rentável, competitivo e sustentável por meio da tecnologia.
+  ### MIssão:
+  Tornar o varejo mais rentável, competitivo e sustentável por meio da tecnologia.
 
-# Visão:
-Ser a escolha natural em software e serviços para o varejo.
+  ### Visão:
+  Ser a escolha natural em software e serviços para o varejo.
 
-# Valores:
-A Linx tem o compromisso de conduzir o seu trabalho dentro dos seguintes valores:
-
-- Seguimos os princípios da ética e as boas práticas de governança corporativa;
-- Prezamos pelo respeito, reconhecimento e desenvolvimento das pessoas;
-- Temos na essência a construção de relacionamentos duradouros;
-- Somos empreendedores e inovadores;
-- Valorizamos qualidade aliada à simplicidade e praticidade;
-- Responsabilidade socioambiental.
+  ### Valores:
+  A Linx tem o compromisso de conduzir o seu trabalho dentro dos seguintes valores:
+  - Seguimos os princípios da ética e as boas práticas de governança corporativa;
+  - Prezamos pelo respeito, reconhecimento e desenvolvimento das pessoas;
+  - Temos na essência a construção de relacionamentos duradouros;
+  - Somos empreendedores e inovadores;
+  - Valorizamos qualidade aliada à simplicidade e praticidade;
+  - Responsabilidade socioambiental.
 
 # AutoSystem:
   ## O que é?
