@@ -1,3 +1,6 @@
+# Você conhece a linx?
+A Linx é especialista em software de gestão (ERP e POS) para as mais diversas verticais do setor varejista no Brasil. Líder brasileira*, a Companhia atingiu a posição oferecendo tecnologia escalável e profundo conhecimento da cadeia de valor em cada segmento no qual está presente. A Companhia oferece soluções específicas para os segmentos de postos e lojas de conveniência, concessionárias, food, moda e acessórios, óticas, farmácias, super e hipermercado, magazines, eletro & eletrônicos, casa & decoração, home centers, telefonia, perfumaria e cosméticos, livrarias e presentes, varejo de serviços, estética e saúde, ensino profissionalizante e idiomas, salões de beleza e spas, lavanderias, entre outros.
+
 # AutoSystem:
   ## O que é?
   O AutoSystem é um sistema completo para posto bandeirado ou individual.
