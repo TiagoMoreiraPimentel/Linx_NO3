@@ -1,9 +1,13 @@
 # Sucesso do Cliente - Linx NO3 | Projeto em desenvolvimento
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>Documentação</summary>
   
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+# Documentação | Projeto Sucesso do Cliente - Linx NO3
+
+## Diagrama de Atividades
+[![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/Diagrama%20de%20atividades.png?raw=true)]()
+
   
   ```javascript
   console.log("I'm a code block!");
