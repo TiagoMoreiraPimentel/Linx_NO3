@@ -8,6 +8,9 @@
 ## Diagrama de Atividades
 [![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/Diagrama%20de%20atividades.png?raw=true)]()
   
+### Na imagem a seguir podemos ver o dashboard do painel inicial do nosso B.I de apresentações | Em desenvolvimento
+  
+  
 </details>
 
 ## Descrição do projeto:
