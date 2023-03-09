@@ -11,7 +11,10 @@
 [![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20menu.png?raw=true)]()
 ## Pagina de Informações do Cliente
 - Imagem 2  
-[![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20informa%C3%A7%C3%B5es%20do%20cliente.png?raw=true)]()  
+[![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20clientes.png?raw=true)]()
+## Pagina para visualização dos graficos
+- Imagem 3  
+[![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20graficos.png?raw=true)]()  
   
   
 </details>
