@@ -5,10 +5,10 @@
 ## Diagrama de Atividades
 [![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/diagramas/Diagrama%20de%20atividades.png?raw=true)]()
   
-### Na imagem a seguir podemos ver o dashboard do painel inicial do nosso B.I de apresentações
+### Na imagem a seguir podemos ver o dashboard do painel inicial MENU do nosso B.I de apresentações
 ## Em Desenvolvimento
 - Imagem 1  
-[![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20linz%20NO3.png?raw=true)]()
+[![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20menu.png?raw=true)]()
 ## Pagina de Informações do Cliente
 - Imagem 2  
 [![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20informa%C3%A7%C3%B5es%20do%20cliente.png?raw=true)]()  
