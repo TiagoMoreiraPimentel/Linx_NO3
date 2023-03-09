@@ -17,7 +17,7 @@
 [![](https://github.com/TiagoMoreiraPimentel/Linx_NO3/blob/main/Projeto%20Linx%20NO3%20-%20Experiencia%20do%20Cliente/imagens/dashboard%20graficos.png?raw=true)]()
 
 # Link do Dashboard publicado:
-* [Dashboard](encr.pw/dashboardlinxno3)
+* [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTM5NDllNzItNjQwNC00NzQwLTk2ZGEtMjY1MGVjMzEyMGRiIiwidCI6ImM1OGY4NTY1LTdhYjQtNDQwZi04NGYyLWRkNzVmMzc0NWE2OSIsImMiOjR9&pageName=ReportSection)
 
 ## Informações completas sobre a metodologia aplicada em nosso projeto | NPS 
 * [Link externo para conhecer a metodologia](https://blog.binds.co/o-que-e-nps-net-promoter-score/)
